@@ -1,5 +1,5 @@
 {
-  "name": "Queen-MD",
+  "name": "Queensik sik",
   "version": "1.0.0",
   "description": "Multi device wa bot.",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DarkWinzo",
+  "author": "zero2",
   "license": "MIT",
   "dependencies": {
         "@adiwajshing/baileys" : "^4.4.0",
